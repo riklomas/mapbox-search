@@ -1,0 +1,16 @@
+form {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1;
+}
+
+form input {
+  width: 200px;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px 0 10px;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
